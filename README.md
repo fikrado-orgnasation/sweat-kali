@@ -1,2 +1,3 @@
 <img src="kalip.jpg">
-<img src="kali3.png">
+<img src="Kali3.png">
+<img src="skdl.png">
