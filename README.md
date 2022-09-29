@@ -1,4 +1,12 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qnC5bVrP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s6sddd89kbuprf74f1kv.jpg">
+
+## installinng
+```
+git clone https://github.com/fikrado-orgnasation/sweat-kali
+cd sweet-kali
+sudo bash install.sh
+```
+
 I have a github repo that conting sweet theme for kali linux it easy quit simple and easy implementation
 
 First clone the github repo `git clone https://github.com/fikrado-orgnasation/sweat-kali`
